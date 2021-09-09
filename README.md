@@ -17,7 +17,6 @@
         <li>Turn left onto US Highway 71/US-71 N/US-136 W.
         <li>Turn left onto S 10Th St/US-59 S/US-136 W. Continue to follow US-136 W.
         <li>Merge onto I-29 N toward Hamburg IA (Crossing into Iowa).
-    <ol>
     <li>Merge onto I-80 (EXPRESS) W via the exit on the left
     <li>I-80 (EXPRESS) W becomes I-80 W (Crossing into Nebraska).
     <li>Merge onto I-680 N via EXIT 446.
