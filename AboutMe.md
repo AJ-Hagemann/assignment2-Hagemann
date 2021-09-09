@@ -32,3 +32,9 @@
   <td> Downtown Omaha </td>
   <td> $11.50 </td>
  </tr>
+ </table>
+    
+ <hr>
+    
+ <blockquote cite=“https://www.rottentomatoes.com/m/spiderman/quotes/”> With great power comes great responsibility <i> Uncle Ben </i> </blockquote >  
+ <blockquote cite=“https://www.rottentomatoes.com/m/spiderman/quotes/”> God's speed Spider-man! <i> Norman Osborn/Green Goblin </i> </blockquote >  
