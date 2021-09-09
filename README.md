@@ -24,4 +24,3 @@
     <li>Merge onto NE-31 N toward Elkhorn.
     <li>Turn left onto Rainwood Rd/County Hwy-13.
     <li>Welcome to ELKHORN, NE.
-<ol>
