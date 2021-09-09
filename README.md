@@ -28,4 +28,7 @@
     <li>Merge onto NE-31 N toward Elkhorn.</il>
     <li>Turn left onto Rainwood Rd/County Hwy-13.</il>
     <li>Welcome to ELKHORN, NE.</il>
+    <ul>
+        <il>There is the best ice cream in the middle of town</il>
+    </ul>
     </ol>
